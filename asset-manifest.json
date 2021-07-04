@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/phonevalid-firebase/static/css/main.b8d8567a.chunk.css",
+    "main.css": "/phonevalid-firebase/static/css/main.e3bd3942.chunk.css",
     "main.js": "/phonevalid-firebase/static/js/main.1b91bcc6.chunk.js",
     "main.js.map": "/phonevalid-firebase/static/js/main.1b91bcc6.chunk.js.map",
     "runtime-main.js": "/phonevalid-firebase/static/js/runtime-main.0da3fc1b.js",
@@ -8,13 +8,13 @@
     "static/js/2.a30b678f.chunk.js": "/phonevalid-firebase/static/js/2.a30b678f.chunk.js",
     "static/js/2.a30b678f.chunk.js.map": "/phonevalid-firebase/static/js/2.a30b678f.chunk.js.map",
     "index.html": "/phonevalid-firebase/index.html",
-    "static/css/main.b8d8567a.chunk.css.map": "/phonevalid-firebase/static/css/main.b8d8567a.chunk.css.map",
+    "static/css/main.e3bd3942.chunk.css.map": "/phonevalid-firebase/static/css/main.e3bd3942.chunk.css.map",
     "static/js/2.a30b678f.chunk.js.LICENSE.txt": "/phonevalid-firebase/static/js/2.a30b678f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0da3fc1b.js",
     "static/js/2.a30b678f.chunk.js",
-    "static/css/main.b8d8567a.chunk.css",
+    "static/css/main.e3bd3942.chunk.css",
     "static/js/main.1b91bcc6.chunk.js"
   ]
 }
